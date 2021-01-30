@@ -1,2 +1,4 @@
-# World_Weather_Analysis
-Using Jupyter Notebook, Pandas, Matplotlib, and APIs
+# World Weather Analysis
+
+## Purpose 
+Using Jupyter Notebook, Pandas, API requests and Google Maps Directions API, a program was created that filters down from 2000 random cities to less cities depending on the minimum and maximum temperatures the user wants for their trip. Once the cities are filtered depending on the specified temperature range, the user can identify potential travel destinations to the cities that fit the temperature criteria as well as identify nearby hotels using a map that was created with markers showing relevant information such as hotel name, city name, country code, and current weather description with the current maximunm temperature for that destination. Then, the user can choose 4 cities of their liking to create a travel itinerary for the trip and export that itinerary to a map containing a marker layer for clarity.
